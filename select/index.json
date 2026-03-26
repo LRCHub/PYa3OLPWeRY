@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ライト・ヒア・ウェイティング",
+  "base_artist": "リチャード・マークス",
+  "createdAt": "2026-03-26T06:47:26.757339Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Right Here Waiting",
+      "artist": "Richard Marx",
+      "has_synced": false,
+      "path": "select/pl_01_Right_Here_Waiting_Richard_Marx.txt"
+    }
+  ]
+}
